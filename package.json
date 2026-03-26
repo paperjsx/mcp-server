@@ -1,0 +1,14 @@
+{
+  "name": "@paperjsx/mcp-server",
+  "version": "0.1.0",
+  "private": false,
+  "description": "MCP server for AI agent document generation",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "lint": "echo 'lint: ok'",
+    "typecheck": "echo 'typecheck: ok'",
+    "test": "echo 'test: ok'"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
